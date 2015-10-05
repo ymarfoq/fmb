@@ -1,0 +1,42 @@
+#####################
+###info de connexions###
+#####################
+
+Mail de Emmanuel : eml.mauduit@gmail.com
+Mail de Jean : jemauduit@gmail.com
+
+OVH : 
+https://www.ovh.com/managerv3
+mj273010-ovh
+1MydAsmO
+
+FTP : 
+fmb-plastic.com
+fmbplastri
+xmP2ADvUHqHV
+3mpruvdb
+
+fmb-plastique.fr
+fmbplastgu
+3mpruvdb
+
+
+###################
+###instructions site###
+###################
+
+Holding non nécessaire, en fait si, mais avec les info générales financières et stratégiques du site
+
+reprendre le logo qu'ils vont m'envoyer
+
+site en français et anglais
+formulaire de contact, avec un envoie vers une adresse mail spécifique puis mail de confirmation de l'envoie avec les cooordonnées de la personne consernée.
+
+un plan va être envoyé
+site : téchnologie partie principale
+	1) france - FMB industrie
+		partie moule
+	3)france TEP - production série pièce plastique
+	4) Romanie Plastique -  idem + maintenance
+		ajouter un lien vers leur site
+	2)CIS plastimoule - avenir
